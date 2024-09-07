@@ -1,5 +1,4 @@
 Welcome to my profile! 👋
-:grinning:	
 <!--
 **HarrisonDu/HarrisonDu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
